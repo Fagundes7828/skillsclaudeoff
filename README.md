@@ -8,7 +8,6 @@
 
 - **Versão atual:** 0.1.15
 - **Licença:** MIT
-- **Autor/mantenedor:** Renato Asse ([@renatoasse](https://github.com/renatoasse))
 - **Requisito:** Node.js >= 20.0.0
 - **Runtime:** ESM (`"type": "module"`), CLI via bin `opensquad`
 
